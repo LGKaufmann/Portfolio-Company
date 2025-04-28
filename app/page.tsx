@@ -1,7 +1,6 @@
 import { CoverParticles } from "@/components/CoverParticles";
 import Introduction from "@/components/Introduction";
 import TransitionPage from "@/components/TransitionPage";
-import Image from "next/image";
 
 export default function Home() {
   return (
